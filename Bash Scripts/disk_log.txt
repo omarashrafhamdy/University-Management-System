@@ -1,0 +1,4 @@
+Warning Disk Space Is Above 40
+Warning Disk Space Is Above 40
+Disk Space Is Under 60%
+Warning Disk Space Is Above 50%
